@@ -1,0 +1,126 @@
+
+/* Common styles */
+.btn-primary{
+    align-items: end;
+    border-radius: 5px;
+    background: #FFF;
+    margin-right: 230px;
+    width: 160px;
+    height: 64px;
+    color: #005FAC;
+    text-align: center;
+    font-size: 20px;
+    font-weight: 600;
+}
+
+.header-container{
+    text-align: end;
+}
+
+/* Header section styles */
+header{
+    background-image: url('../images/banner/banner3.png');
+    width: 1500px;
+    height: 808px;
+    border-top: 0px;
+}
+
+.header-title{
+    color: #FFF;
+    text-align: right;
+    font-size: 65px;
+    font-weight: 700;
+    padding: 216px 230px 0px 845px;
+}
+
+.header-description{
+    color: #FFF;
+    text-align: right;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 26px;
+    padding-right: 230px;
+    padding-left: 845px;
+    text-align: end;
+    padding-bottom: 30px;
+}
+
+
+/* Main section style */
+
+
+.main-container1{
+    display: flex;
+    justify-content: space-between;
+    margin: 150px;
+    background-color: #FFF;
+}
+
+.container-column2{
+    width: 300px;
+    padding-top: 200px;
+    padding-right: 150px;
+}
+
+.hedline2{
+    color:#151414;
+    text-align: center;
+    font-size: 40px;
+    font-weight: 700;
+    padding-bottom: 30px;
+}
+
+.main-container2{
+    display: flex;
+    justify-content: space-around;
+}
+
+
+.main-container3{
+    background-image: url('../images/gradient1.png') , url('../images/watch.png');
+    background-repeat: no-repeat;
+    height: 200px;
+    align-items: center;
+    margin-top: 50px;
+    margin-left: 230px;
+    margin-right: 230px;
+    border-radius: 10px;
+}
+
+.container3-title{
+    text-align: center;
+    padding: 20px;
+    padding-right: 50px;
+    color: #FFF;
+    font-size: 40px;
+    font-weight: 700;
+}
+
+.btn{
+    align-items: end;
+    border-radius: 5px;
+    background: #FFF;
+    margin-right: 230px;
+    width: 160px;
+    height: 64px;
+    color: #005FAC;
+    text-align: center;
+    font-size: 20px;
+    font-weight: 600;
+    margin-left: 250px;
+}
+
+/* Footer section style */
+
+.foot{
+    border-radius: 10px;
+    color: #fff;
+    margin-top: 50px;
+    background-color: #000;
+    display: flex;
+    gap: 100px;
+}
+
+.foot-column{
+    padding: 20px;
+}
